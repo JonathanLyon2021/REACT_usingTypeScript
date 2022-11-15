@@ -28,3 +28,15 @@ type x = {
   a: string;
   b: number;
 }
+
+  *type Person = {
+  name: string;
+  age: number;
+};
+
+let person: Person = {
+  name: "Jonathan",
+}
+
+let lotsOfPeople: Person[];*/
+let person:Name: unknown;
