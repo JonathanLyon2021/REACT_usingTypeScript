@@ -40,3 +40,12 @@ let person: Person = {
 
 let lotsOfPeople: Person[];*/
 let person:Name: unknown;
+  
+const App: React.FC = () => {
+  return (<div className="App">
+    <span classsName= "heading">Taskify</span>
+    </div>);
+}
+
+export default App;
+
